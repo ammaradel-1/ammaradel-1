@@ -4,6 +4,8 @@
 I am a Mechatronics & Robotics Engineering graduate passionate about bridging the gap between robust physical hardware and intelligent software. I specialize in integrating computer vision, deep learning, and advanced control systems into autonomous robotic platforms—taking complex ideas from initial 3D CAD concepts to fully integrated physical prototypes.
 
 🌐 **Connect & Explore My Work:**
+
+
 [![Homepage](https://img.shields.io/badge/Homepage-0077B5?style=for-the-badge&logo=chrome&logoColor=white)](https://linkedin.com/in/ammaradel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammaradel)
 [![GrabCAD](https://img.shields.io/badge/GrabCAD-FF5500?style=for-the-badge&logo=grabcad&logoColor=white)](https://grabcad.com/ammar.adel-1)
