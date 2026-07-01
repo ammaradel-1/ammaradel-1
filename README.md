@@ -1,4 +1,4 @@
-# Hi, I'm Ammar 👋
+# Hi, I'm Ammar Adel Abdelwahab👋
 ### Robotics & Autonomous Systems Engineer | R&D Mechatronics Engineer
 
 I am a Mechatronics & Robotics Engineering graduate passionate about bridging the gap between robust physical hardware and intelligent software. I specialize in integrating computer vision, deep learning, and advanced control systems into autonomous robotic platforms—taking complex ideas from initial 3D CAD concepts to fully integrated physical prototypes.
