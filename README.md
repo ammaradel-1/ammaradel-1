@@ -1,7 +1,7 @@
-# Hi, I'm Ammar Adel 👋
+# Hi, I'm Ammar 👋
 ### Robotics & Autonomous Systems Engineer | R&D Mechatronics Engineer
 
-I am a Mechatronics & Robotics Engineering graduate (B.Sc., CGPA: 3.8/4.0, E-JUST) passionate about bridging the gap between robust physical hardware and intelligent software. I specialize in integrating computer vision, deep learning, and advanced control systems into autonomous robotic platforms—taking complex ideas from initial 3D CAD concepts to fully integrated physical prototypes.
+I am a Mechatronics & Robotics Engineering graduate passionate about bridging the gap between robust physical hardware and intelligent software. I specialize in integrating computer vision, deep learning, and advanced control systems into autonomous robotic platforms—taking complex ideas from initial 3D CAD concepts to fully integrated physical prototypes.
 
 🌐 **Connect & Explore My Work:**
 * 💼 [LinkedIn](https://linkedin.com/in/ammaradel)
