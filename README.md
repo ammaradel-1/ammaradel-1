@@ -22,16 +22,42 @@ I am a Mechatronics & Robotics Engineering graduate passionate about bridging th
 
 ---
 
-## 🚀 Featured Projects
+# Hi, I'm Ammar Adel 👋
+### Robotics & Autonomous Systems Engineer | R&D Mechatronics Engineer
 
-### 🤖 Intelligent & Autonomous Robotics
-* **Graduation Project: Fast-Tracking Gimbal for Unstable Environments** *A 3-DOF real-time target tracking gimbal using Fuzzy PID & vision-IMU fusion on a Raspberry Pi 4. Validated via a Stewart platform disturbance simulator.* 📄 *Published in IEEE CoDIT 2026.* * **[Mobile Manipulator (Autonomous Pick-and-Place)](#)** *A 5-DOF robotic arm on a 4-swerve-wheel autonomous mobile base. Features YOLOv5 perception and ROS 2/Gazebo path planning execution.*
-* **[Deep Q-Network (DQN) Manipulator Control](#)** *Reinforcement learning agent trained within a custom simulation environment to control joint spaces for precise target coordinate reaching.*
+[cite_start]I am a Mechatronics & Robotics Engineering graduate (B.Sc., CGPA: 3.8/4.0, E-JUST) passionate about bridging the gap between robust physical hardware and intelligent software[cite: 121, 375]. [cite_start]I specialize in integrating computer vision, deep learning, and advanced control systems into autonomous robotic platforms—taking complex ideas from initial 3D CAD concepts to fully integrated physical prototypes[cite: 151, 377, 378].
 
-### ⚡ Embedded & Electronic Systems
-* **[Self-Balancing Robot Automation](#)** *Inverted pendulum dynamic stabilization implemented on NI myRIO and LabVIEW using direct IMU sensor feedback.*
-* **[EKF Mobile Robot Localization](#)** *An Extended Kalman Filter algorithm written from scratch in Python to fuse simulated sensor telemetry with landmark odometry.*
+---
 
-### ⚙️ Industrial Automation & Mechanical Systems
-* **[Automated Sheet Metal Thickness Control System](#)** *Heavy-duty hot-rolling plant simulated via Simscape Multibody, integrated with Siemens S7-1500 PLC closed-loop control logic.*
-* **[Automated Mobile Oil Mixing Unit (1000L)](https://grabcad.com/library/automated-mobile-oil-mixing-unit-1000l-ibc-tank-agitator-system-1)** *Industrial C-frame mixing system highlighting high-torque transmission shaft design, power screws, and critical mechanical safety interlocks.*
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammaradel)
+[![GrabCAD](https://img.shields.io/badge/GrabCAD-FF5500?style=for-the-badge&logo=grabcad&logoColor=white)](https://grabcad.com/ammar.adel-1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammaradelabdeltwab@gmail.com)
+
+---
+
+## 🛠️ Technical Toolbox
+
+### 🤖 Robotics Frameworks & Control
+![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=flat-square&logo=gazebo&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white)
+&nbsp;`Kinematics (IK/FK)` &nbsp;`Path Planning` &nbsp;`PID / Fuzzy Logic` &nbsp;`Sensor Fusion (Kalman Filters)`
+
+### 🧠 AI & Computer Vision
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+&nbsp;`YOLOv5/v8` &nbsp;`Convolutional Neural Networks (CNNs)` &nbsp;`Reinforcement Learning (DQN)`
+
+### ⚡ Embedded Systems & Electronics
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+&nbsp;`Embedded C` &nbsp;`AVR/ATmega32` &nbsp;`ESP32` &nbsp;`NI myRIO` &nbsp;`LabVIEW` &nbsp;`PCB Design`
+
+### ⚙️ CAD, Simulation & Mechanical Design
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23DC1928.svg?style=flat-square&logo=solidworks&logoColor=white)
+&nbsp;`CATIA` &nbsp;`AutoCAD` &nbsp;`ANSYS (FEA)` &nbsp;`Pneumatics & Hydraulics` &nbsp;`DFMA`
